@@ -3,3 +3,6 @@
 
 # DB Files
 *.sqlite3
+
+# Pycharm cache
+*.py[cod]
