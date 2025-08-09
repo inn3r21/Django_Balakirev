@@ -1,1 +1,5 @@
+# Pycharm Settings
 .idea
+
+# DB Files
+*.sqlite3
